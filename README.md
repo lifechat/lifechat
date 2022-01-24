@@ -29,8 +29,7 @@
 
 #### 其他
 ![](https://img.shields.io/badge/lifechat17?style=flat-square&logo=WeChat&logoColor=ffffff)
-![](https://img.shields.io/badge/1176989241-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
-![](https://komarev.com/ghpvc/?username=yanghuanrong)
+![](https://img.shields.io/badge/2596642641-EB1923?style=flat-square&logo=TencentQQ&logoColor=ffffff)
 
 
 <!---
