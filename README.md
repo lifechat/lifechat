@@ -1,5 +1,5 @@
-#"Life is not as difficult as you think, but it's also not as easy as you imagine. Just keep moving forward"
-##"Life is but like the fluff before the wind, joy is scattered, sorrow is scattered, all becoming specks of duckweed in the river."
+# "Life is not as difficult as you think, but it's also not as easy as you imagine. Just keep moving forward"
+## "Life is but like the fluff before the wind, joy is scattered, sorrow is scattered, all becoming specks of duckweed in the river."
 
 #### self-introduction
 分三点介绍自己，个人工作经历，要做的事以及自身掌握的技能，未来要与什么样的人同行
@@ -28,8 +28,10 @@
 
 
 #### Hobbies and interests
-   Hobbies： 篮球，健身，剪辑，设计，阅读，园艺，厨艺，英语，音乐
-   interests： 艺术，宇宙，二次元，心理学，沟通表达，写作相关的比较感兴趣
+
+  Hobbies： 篮球，健身，剪辑，设计，阅读，园艺，厨艺，英语，音乐 </br>
+   
+  interests： 艺术，宇宙，二次元，心理学，沟通表达，写作相关的比较感兴趣
 
 
 #### Language and Framework
