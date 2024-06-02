@@ -1,5 +1,4 @@
 # "Life is not as difficult as you think, but it's also not as easy as you imagine. Just keep moving forward"
-## "Life is but like the fluff before the wind, joy is scattered, sorrow is scattered, all becoming specks of duckweed in the river."
 
 #### self-introduction
 分三点介绍自己，个人工作经历，要做的事以及自身掌握的技能，未来要与什么样的人同行
