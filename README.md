@@ -1,7 +1,7 @@
 #"Life is not as difficult as you think, but it's also not as easy as you imagine. Just keep moving forward"
 ##"Life is but like the fluff before the wind, joy is scattered, sorrow is scattered, all becoming specks of duckweed in the river."
 
-####self-introduction
+#### self-introduction
 分三点介绍自己，个人工作经历，要做的事以及自身掌握的技能，未来要与什么样的人同行
   1、 出身来自湖南一个小农村
      大学毕业后从事过服务员，保安，讲师，销售，酒吧酒水销售，目前正在从事与本专业相同的程序员。
